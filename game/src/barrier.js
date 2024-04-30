@@ -1,4 +1,5 @@
-var obstacleSpeed = 1.5; // Changing this will impact how quickly obstacles in the game move.
+var obstacleSpeed = 7; // Changing this will impact how quickly obstacles in the game move.
+// aumento a velocidade dos objectos, senti que o jogo estava muito lento.
 var gapSize = 3; // This determines the size of the gap to create between the floor and ceiling.
 
 class Barrier extends GameObject {
